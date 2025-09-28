@@ -19,19 +19,28 @@ Easy to update with new projects & content
 
 🚀 Run Locally
 git clone https://github.com/rohan-rohan-a-ms-projects/portfolio.git
+
 cd portfolio
+
 npm install
+
 npm run dev
 
 
 Open http://localhost:3000
+
  to view locally.
 
 📂 Project Structure
 portfolio/
 ├─ public/         # Static assets (images/icons)
+
 ├─ src/
 │  ├─ app/         # Pages & components
+
 │  ├─ styles/      # Tailwind CSS
+
 ├─ package.json
+
 ├─ tailwind.config.js
+
