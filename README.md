@@ -1,4 +1,3 @@
-Personal portfolio website showcasing my projects, skills, and experience as a Computer Science student and developer.
 
 🌐 Live Demo: https://rohan-rohan-a-ms-projects.vercel.app/
 
