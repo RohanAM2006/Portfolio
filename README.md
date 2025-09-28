@@ -3,9 +3,7 @@
 
 🛠 Tech Stack
 
-Frontend: Next.js 14, React, Tailwind CSS
-
-Backend: Node.js (for APIs, if any)
+ Next.js 14, React, Tailwind CSS
 
 Deployment: Vercel
 
@@ -17,7 +15,7 @@ Fast performance with Next.js optimization
 
 Easy to update with new projects & content
 
-🚀 Run Locally
+To Run Locally
 git clone https://github.com/rohan-rohan-a-ms-projects/portfolio.git
 
 cd portfolio
